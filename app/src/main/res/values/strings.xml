@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Statistik och sannolikhet</string>
+    
+    <string-array name="currencyArray">
+        <item>CAD</item>
+        <item>DKK</item>
+        <item>SEK</item>
+        <item>NOK</item>
+        <item>GBP</item>
+        <item>USD</item>
+    </string-array>
+</resources>
